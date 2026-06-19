@@ -14,4 +14,4 @@ We partner with product organisations to strengthen their teams and reimagine th
 [Find out more](https://colabcohorts.com/engage/) about how we help organisation scale.
 
 --- 
-[Privacy Policy](https://colabcohorts.com/privacy-policy/)
+[Privacy Policy](https://colabcohorts.com/privacy-policy/) | [Code of Conduct](https://github.com/ColabCohorts/.github/blob/main/profile/CODE_OF_CONDUCT.md)
