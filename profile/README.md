@@ -1,4 +1,4 @@
-<img width="1330" height="564" alt="image" src="https://github.com/user-attachments/assets/e71e9f89-0495-4b0c-b354-377b68d08b0e" />
+<img width="1330" height="564" alt="image" src="https://github.com/user-attachments/assets/2f5260de-b248-4bec-973a-8eef3f322279" />
 
 ## Learn from practitioners who have done it before.
 Colab helps product professionals grow through expert-led cohorts, practical learning, and a vibrant global community. Our programs are built by real product leaders and trusted by 650+ PMs from companies like Visa, Xero and BBC — giving you the tools, experiences, and connections to accelerate your career and build better products.
