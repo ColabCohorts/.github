@@ -3,9 +3,3 @@
 
 ## Related Issues
 <!-- Link to the issue(s) this PR addresses (e.g., Closes #123). -->
-
-## Type of Change
-- [ ] Update
-- [ ] New feature
-- [ ] Bug fix
-- [ ] Breaking change
